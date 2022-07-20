@@ -1,0 +1,57 @@
+/* This is a comment */
+/* Style Sheet for Jaberwocky Tutorial */
+
+/* Body */
+body {
+background-color: tan;
+background-image: url('jabber2.gif'); /* note the 'quotes' around the file name */
+background-position: center right;   /* vertical center, horizontal right */
+background-repeat: no-repeat;
+background-attachment: fixed   /*does not scroll */
+}
+
+/* Headers */
+h1 {
+text-align: center;
+margin-right: 400;
+background-image: url('backtile.gif');
+color:maroon;
+font-size:20pt;
+padding: 10px 10px 10px 10px;   /* top-right-bottom-left */
+background-color: white;
+border-style: groove double;
+border-color: blue;
+border-width: 10px;
+}
+h2 {color:black; margin-right; font-size:20pt}
+
+/* HR (Hard Rule = line) */
+hr {color:navy;margin-right:304px;height: 5px}
+
+/* Paragraphs */
+p {font-size:12pt; margin-left: 15px}
+p.verse {color:red; margin-right: 60px}
+
+/* Divs */
+div.reference {color:slategray; margin-right: 40px}
+
+/* Links */
+a:link     {color:green}
+a:visited  {color:yellow}
+a:hover    {color:black}
+a:active   {color:blue}
+
+/* Navigation */
+
+#navigation ul {
+margin: 0;   /* removes indent IE and Opera */
+padding: 0;   /* removes indent Mozilla and NN7 */
+list-style-type: none;   /* turns off display of bullet */
+}
+#navigation li { display: inline; }
+
+/* Classes used by all html elements */
+
+/* Ids */
+
+
