@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# dbit
-
+# DBIT
 Contains all my DBIT classes' code
-=======
 # DBIT-1102
 INTRODUCTION TO PROGRAMMING WITH C++
 
@@ -17,4 +14,3 @@ SOFTWARE ENGINEERING
 
 # DBIT-1305
 Web Application Development
->>>>>>> 0cc1720 (add README.md)
